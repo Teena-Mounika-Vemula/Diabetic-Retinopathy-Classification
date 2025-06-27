@@ -94,7 +94,7 @@ A **hybrid model** is developed using:
 
 ## File Structure
 
-kavyasudha2803/
+Teena-Mounika-Vemula/
 
 ├── MIT License.txt # License file with MIT License text
 
@@ -118,11 +118,11 @@ kavyasudha2803/
 
 ## 👥 Authors
 
-- Gorrepati Kavya Sudha 
+- Vemula Teena Mounika 
 - Akuthota Meghana  
 - Vuyyala Likhitha  
 - Pagadala Pooja  
-- Vemula Teena Mounika  
+- Gorrepati Kavya Sudha  
 
 **Supervisor**: Dr. Habila Basumatary  
 *Indian Institute of Information Technology, Pune*
